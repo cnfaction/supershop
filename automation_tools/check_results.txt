@@ -1,0 +1,1094 @@
+﻿Total products: 391
+==================================================================================================================================
+ID       Brand                     Category        Title                                                        Folder
+==================================================================================================================================
+10140    Mihara Yasuhiro           shoes           Mihara Yasuhiro Wayne High Sneakers                          prod_140
+10131    Apple                     electronics     Apple AirPods Max (Space Gray)                               prod_131
+10049    C.P. Company              jackets         CP Company Lens Soft Shell Jacket                            prod_49
+10265    Polo Ralph Lauren         jackets         Polo Ralph Lauren Zip-Up Hoodie                              prod_265
+10296    Prada                     shoes           Prada America's Cup Sneakers                                 prod_296
+10073    Nike                      shoes           Nike Air Max 95 Classic Sneakers                             prod_73
+10082    Nike                      accessories     Nike Cushion Crew Socks                                      prod_82
+10345    Nike                      jackets         Nike Tech Fleece Hoodie                                      prod_345
+10273    Fear of God               hoodies         Fear of God Essentials Pullover Hoodie Set                   prod_273
+10276    Fear of God               pants           FOG Essentials Zip-Up Sweatpants                             prod_276
+10099    Nike                      general         Nike Tech Fleece Suit                                        prod_99
+10237    Nike                      accessories     Nike Hyperwarm Academy Football Gloves                       prod_237
+10093    Rick Owens                pants           Rick Owens Drkshdw Ramones High                              prod_93
+10322    Polo Ralph Lauren         general         Polo Ralph Lauren Cable-Knit Sweater                         prod_322
+10014    Nike                      jerseys         Nike x Cactus Jack Barcelona Special Edition Jersey          prod_14
+10320    Nike                      jackets         Nike Sportswear Fleece Suit                                  prod_320
+10157    Moose Knuckles            general         Moose Knuckles Fur-Trimmed Puffer Jacket                     prod_157
+10290    UGG                       general         UGG Tasman Slipper                                           prod_290
+10174    Corteiz                   hoodies         Corteiz RTW All World Reservation Reflective Hoodie          prod_174
+10254    Chanel                    shoes           Chanel Logo Sneakers                                         prod_254
+10018    Nike                      hoodies         Nike Sportswear Tech Fleece Full-Zip Hoodie (FB8017)         prod_18
+10031    Burberry                  pants           Burberry Check Swim Shorts                                   prod_31
+10172    Nike                      bags            Nike Elite Basketball Backpack                               prod_172
+10126    Gucci                     jackets         Gucci GG Supreme Messenger Bag                               prod_126
+10206    Burberry                  jackets         Burberry Check Windbreaker Jacket                            prod_206
+10298    Nike                      jerseys         Nike Barcelona Retro 2004-05 Home Jersey                     prod_298
+10256    Balenciaga                tshirts         Balenciaga BB Logo Oversized T-Shirt Collection              prod_256
+10334    Fear of God               pants           Fear of God Essentials T-Shirt & Shorts Set                  prod_334
+10375    Nike                      pants           Nike Dri-FIT Strike Training Suit                            prod_375
+10089    Nike                      shoes           Nike SB Dunk Low 'Panda'                                     prod_89
+10275    Defcropped                hoodies         Defcropped Yoga Zip-up Jacket                                prod_275
+10123    Adidas                    shoes           Adidas Yeezy Slide 'Onyx'                                    prod_123
+10020    Golden Goose              shoes           Golden Goose Super-Star Sneakers                             prod_20
+10042    Christian Louboutin       shoes           Christian Louboutin Louis Orlato Spiked Sneakers             prod_42
+10027    Apple                     general         Apple AirPods Pro (2nd Generation) with USB-C                prod_27
+10036    Corteiz                   hoodies         Classic Cotton Zip-Up Hoodie                                 prod_36
+10019    Multi-Club                jerseys         Multi-Club Football Jersey Collection (2022-25)              prod_19
+10182    Acne Studios              accessories     Acne Studios Large Plaid Mohair Scarf                        prod_182
+10135    Mixed Luxury              general         Designer Knitwear Collection (Dior/LV/Celine)                prod_135
+10105    ASICS                     shoes           Asics Gel-Kayano 14 'Metallic Silver'                        prod_105
+10324    Comme des Gar莽ons         hoodies         Comme des Gar莽ons PLAY Heart Logo Half-Zip Sweatshirt        prod_324
+10212    C.P. Company              hoodies         C.P. Company Goggle Lens Hooded Sweatshirt                   prod_212
+10056    Derschutze                pants           Derschutze Sakura Embroidery Jeans                           prod_56
+10026    Amiri                     pants           Amiri Gothic Logo Leather Belt                               prod_26
+10364    Denim Tears               jackets         Denim Tears Cotton Wreath Hoodie                             prod_364
+10051    Carhartt                  jackets         Carhartt Canvas Active Jacket                                prod_51
+10234    Canada Goose              jackets         Canada Goose Puffer Jacket Collection                        prod_234
+10086    New Balance               general         New Balance 1906R Sneakers                                   prod_86
+10219    Saint Laurent             general         Saint Laurent Script Logo Mohair Sweater                     prod_219
+10336    Stone Island              jackets         Stone Island Logo Patch Full-Zip Hoodie                      prod_336
+10249    BAPE                      tshirts         BAPE College Big Ape Head T-Shirt                            prod_249
+10248    Casablanca                tshirts         Casablanca Tennis Club Printed T-Shirt                       prod_248
+10253    Burberry                  accessories     Burberry Equestrian Knight Buckle Leather Belt               prod_253
+10050    C.P. Company              jackets         C.P. Company Hooded Puffer Jacket                            prod_50
+10301    Nike                      shoes           Nike Nocta x Hot Step Terra Collection                       prod_301
+10130    Jordan                    shoes           Air Jordan 4 Retro Collection                                prod_130
+10360    Saint Alexander           hoodies         Saint Alexander Zip-Up Hoodie                                prod_360
+10045    Corteiz                   jackets         Corteiz Jacket                                               prod_45
+10232    Comme des Gar莽ons         jackets         Comme des Gar莽ons PLAY Red Heart Hoodie                      prod_232
+10189    Nike                      pants           Nike Dri-FIT Phenom Elite Running Pants                      prod_189
+10163    The North Face            jackets         The North Face 1996 Nuptse Retro Vest                        prod_163
+10314    Fear of God               pants           Fear of God Essentials Classic Sweatpants                    prod_314
+10179    Nike                      jackets         Nike Sportswear Essential Woven Jacket                       prod_179
+10118    Dior                      tshirts         Dior Embroidery Logo Cotton T-Shirt Collection               prod_118
+10349    Polo Ralph Lauren         tshirts         Polo Ralph Lauren Classic Fit Cotton Polo                    prod_349
+10220    BAPE                      tshirts         BAPE Shark Head Graphic T-Shirt Collection                   prod_220
+10136    Balenciaga                jackets         Balenciaga Puffer Jacket                                     prod_136
+10015    Moncler                   jackets         Moncler Hybrid Knit Puffer Jacket                            prod_15
+10159    Moncler                   jackets         Moncler Maya Puffer Jacket Navy                              prod_159
+10270    Burberry                  jackets         Burberry Vintage Check Hooded Jacket                         prod_270
+10057    Dior                      shoes           Dior B30 Sneaker Collection                                  prod_57
+10251    Arc'teryx                 jackets         Arc'teryx Beta AR Gore-Tex Shell Jacket                      prod_251
+10227    Balenciaga                hoodies         Balenciaga Graffiti Print Zip-Up Hoodie                      prod_227
+10354    Denim Tears               hoodies         Denim Tears Cotton Wreath Hoodie                             prod_354
+10226    Dior                      shoes           Dior B30 Sneaker White Mesh                                  prod_226
+10133    Stone Island              bags            Stone Island Down Puffer Jacket                              prod_133
+10107    ASICS                     shoes           ASICS GEL-NYC Sneakers                                       prod_107
+10200    Corteiz                   sets            Corteiz RTW HMP Hoodie and Tracksuit Collection              prod_200
+10264    Palm Angels               jackets         Palm Angels Reflective Windbreaker                           prod_264
+10158    Stone Island              shoes           Stone Island Lambswool Crewneck Knit                         prod_158
+10366    Denim Tears               hoodies         Denim Tears Cotton Wreath Hoodie                             prod_366
+10139    Purple Brand              pants           Purple Brand Flared Distressed Jeans                         prod_139
+10052    Nike                      shoes           Nike Air Force 1 Low 'Fat Rope' Custom                       prod_52
+10102    Nike                      general         Nike Spark Lightweight Socks                                 prod_102
+10002    Santos FC                 jerseys         Santos FC 2012-2013 Home Jersey Neymar Jr #11                prod_2
+10060    Christian Louboutin       hoodies         Christian Louboutin Louis Junior Spikes 'Black'              prod_60
+10156    Valentino                 general         Valentino Born in Roma Intense Perfume                       prod_156
+10368    Corteiz                   hoodies         Corteiz Alcatraz Tracksuit                                   prod_368
+10134    Balenciaga                shoes           Balenciaga Track Sneaker White/Orange                        prod_134
+10221    Jordan                    pants           Jordan Mesh Basketball Shorts                                prod_221
+10046    Corteiz                   hoodies         Corteiz Hoodie                                               prod_46
+10283    Chrome Hearts             accessories     Chrome Hearts Embroidered Trucker Hat                        prod_283
+10242    Gucci                     pants           Gucci GG Supreme Leather Belt with G Buckle                  prod_242
+10101    Nike                      accessories     Nike Everyday Multi-Pack Socks                               prod_101
+10034    Balenciaga                shoes           Balenciaga Track Sneaker 'Graffiti'                          prod_34
+10381    Golden Goose              shoes           Golden Goose Running Dad Sneaker                             prod_381
+10373    Rimowa                    general         Rimowa Style Aluminum Alloy Carry-On Suitcase                prod_373
+10386    Canada Goose              jackets         Canada Goose Freestyle Puffer Vest and Down Jacket Collect   prod_386
+10070    Nike                      general         Nike Air Max Plus TN 'Pink Blast'                            prod_70
+10029    Burberry                  hoodies         Burberry Equestrian Knight Logo Full-Zip Hoodie              prod_29
+10311    Gucci                     shoes           Gucci Rhyton GG Canvas Sneaker                               prod_311
+10213    Polo Ralph Lauren         jackets         Polo Ralph Lauren Hoodie/Puffer Collection                   prod_213
+10165    BAPE                      hoodies         BAPE Shark Full-Zip Camo Hoodie                              prod_165
+10306    Nike                      shoes           Nike Air Force 1 '07 Sneakers                                prod_306
+10012    Nike                      shoes           Nike Dunk Low Panda                                          prod_12
+10210    Chrome Hearts             hoodies         Chrome Hearts Hoodie                                         prod_210
+10111    Stussy                    hoodies         Stussy 8 Ball Logo Tee Black                                 prod_111
+10327    Nike                      pants           Nike AeroSwift Lightweight Running Pants                     prod_327
+10374    Acne Studios              tshirts         Acne Studios Stockholm 1996 Long Sleeve T-Shirt              prod_374
+10154    Chrome Hearts             general         Chrome Hearts Cross Patch Waffle Henley                      prod_154
+10143    Murtaya                   pants           Murtaya Baggy Sweat Shorts                                   prod_143
+10247    Dior                      pants           Dior Oblique Monogram T-Shirt and Shorts Set                 prod_247
+10310    Chanel                    accessories     Chanel CC Logo Knitted Beanie Hat                            prod_310
+10223    Denim Tears               hoodies         Denim Tears Cotton Wreath Hoodie                             prod_223
+10280    Other                     pants           Premium Pants                                                prod_280
+10063    Fendi                     general         Fendi Watermark Monogram Shorts                              prod_63
+10363    Polo Ralph Lauren         jackets         Polo Ralph Lauren Big Pony Japan Hoodie                      prod_363
+10203    New Balance               shoes           New Balance 2002R Protection Pack Rain Cloud                 prod_203
+10353    Other                     general         Premium General                                              prod_353
+10066    Gucci                     accessories     Gucci GG Monogram Baseball Cap                               prod_66
+10109    Stussy                    tshirts         Stussy Graphic Tee Collection                                prod_109
+10146    New Balance               accessories     New Balance 1906R Silver Metallic                            prod_146
+10284    Other                     general         Premium General                                              prod_284
+10004    Other                     accessories     Premium Accessories                                          prod_4
+10061    Fear of God               tshirts         Fear of God Essentials 1977 Tee                              prod_61
+10321    Versace                   accessories     Premium Accessories                                          prod_321
+10385    Nike                      jackets         Premium Puffer Jacket                                        prod_385
+10028    Other                     general         Premium General                                              prod_28
+10161    Moncler                   bags            Moncler Maglia Cardigan With Tricot                          prod_161
+10348    Moncler                   bags            Moncler x Valentino Puffer Jacket                            prod_348
+10388    Moncler                   jackets         Moncler Maya Classic Down Jacket                             prod_388
+10087    New Balance               general         New Balance 2002R Sneakers                                   prod_87
+10021    Other                     general         Premium General                                              prod_21
+10195    Other                     bags            Premium Bag                                                  prod_195
+10268    Balenciaga                shoes           Balenciaga Triple S Sneaker Clear Sole                       prod_268
+10121    Vetements                 pants           Vetements Logo Sweatpants                                    prod_121
+10170    Off-White                 shoes           Off-White x Air Jordan 1 Retro High OG Chicago               prod_170
+10285    Other                     general         Premium General                                              prod_285
+10286    Other                     general         Premium General                                              prod_286
+10241    Other                     bags            Premium Bag                                                  prod_241
+10106    BAPE                      shoes           Bape College Logo Tee White                                  prod_106
+10039    Other                     hoodies         Premium Hoodie                                               prod_39
+10035    Supreme                   jackets         Supreme x Umbro Track Jacket                                 prod_35
+10044    Corteiz                   jackets         Corteiz Alcatraz Embroidered Hoodie                          prod_44
+10041    Other                     pants           Premium Pants                                                prod_41
+10145    New Balance               shoes           New Balance 2002R 'Protection Pack'                          prod_145
+10389    Other                     general         Premium General                                              prod_389
+10175    Maison Margiela           shoes           Maison Margiela Replica Sneakers                             prod_175
+10084    Dior                      shoes           Dior B23 Low-Top 'Oblique'                                   prod_84
+10085    Gucci                     shoes           Gucci Ace Sneaker 'Bee'                                      prod_85
+10307    Hellstar                  hoodies         Hellstar Hoodie                                              prod_307
+10379    Other                     pants           Premium Pants                                                prod_379
+10187    Other                     bags            Premium Bag                                                  prod_187
+10017    Nike                      pants           Nike Running Pants                                           prod_17
+10125    Gucci                     jackets         Gucci Double G Buckle Leather Belt                           prod_125
+10193    Nike                      shoes           Nike Air Max Plus TN Black/Volt                              prod_193
+10100    Other                     general         Premium General                                              prod_100
+10171    Other                     bags            Premium Bag                                                  prod_171
+10177    Other                     general         Premium General                                              prod_177
+10168    Other                     hoodies         Premium Hoodie                                               prod_168
+10033    Gucci                     general         Gucci Screener GG Canvas Sneaker                             prod_33
+10141    Derschutze                pants           Derschutze Angel Print Jeans                                 prod_141
+10217    Supreme                   hoodies         Supreme Hoodie                                               prod_217
+10128    Louis Vuitton             general         Louis Vuitton Keepall Bandouliere 50                         prod_128
+10218    Other                     jackets         Premium Puffer                                               prod_218
+10137    Scff                      jackets         Scff Logo Hoodie                                             prod_137
+10319    Stussy                    general         Premium General                                              prod_319
+10013    Balenciaga                bags            Balenciaga Explorer Graffiti Backpack                        prod_13
+10279    Other                     pants           Premium Pants                                                prod_279
+10205    Other                     tshirts         Premium Tee                                                  prod_205
+10190    Other                     jackets         Premium Jacket                                               prod_190
+10062    Fear of God               jackets         Fear of God Essentials Hoodie                                prod_62
+10325    Other                     pants           Premium Pants                                                prod_325
+10244    Herm猫s                    shoes           Hermes Oran Sandals Gold/White                               prod_244
+10351    Nike                      hoodies         Nike Tech Fleece Full-Zip Hoodie                             prod_351
+10222    Other                     accessories     Premium Cap                                                  prod_222
+10214    Other                     hoodies         Premium Hoodie                                               prod_214
+10216    Other                     accessories     Premium Accessories                                          prod_216
+10162    C.P. Company              bags            C.P. Company Lens Flat Nylon Crossbody Bag                   prod_162
+10065    Balenciaga                tshirts         Gymshark Training T-Shirt                                    prod_65
+10164    Other                     tshirts         Premium T-Shirt                                              prod_164
+10166    Other                     hoodies         Premium Hoodie                                               prod_166
+10180    Other                     accessories     Premium Cap                                                  prod_180
+10384    Nike                      tshirts         Premium T-Shirt                                              prod_384
+10185    Other                     accessories     Premium Accessories                                          prod_185
+10382    Chrome Hearts             accessories     Premium Accessories                                          prod_382
+10281    Louis Vuitton             bags            Louis Vuitton Damier Ebene Multi Wallet                      prod_281
+10188    Other                     tshirts         Premium T-Shirt                                              prod_188
+10267    Chrome Hearts             accessories     Chrome Hearts Cross Socks                                    prod_267
+10160    Moncler                   jackets         Moncler Montbeliard Puffer Jacket                            prod_160
+10022    Moncler                   jackets         Moncler Classic Hooded Puffer Jacket                         prod_22
+10058    Louis Vuitton             bags            Louis Vuitton Shoe Trunk Case                                prod_58
+10229    Burberry                  jackets         Burberry Detachable Hood Puffer Jacket                       prod_229
+10272    Other                     jackets         Premium Jacket                                               prod_272
+10304    Polo Ralph Lauren         jackets         Polo Ralph Lauren Hooded Puffer Jacket                       prod_304
+10032    Other                     bags            Premium Bag                                                  prod_32
+10081    MCM                       general         MCM Stark Monogram Backpack                                  prod_81
+10091    Nike                      shoes           Nike x Sacai VaporWaffle 'Royal Fuchsia'                     prod_91
+10274    Givenchy                  shoes           Givenchy City Court Canvas Sneakers                          prod_274
+10077    BAPE                      shoes           A Bathing Ape Bape Sta 'White/Blue'                          prod_77
+10122    Dior                      bags            Dior Saddle Messenger Bag                                    prod_122
+10008    Other                     jackets         Premium Puffer Jacket                                        prod_8
+10071    Nike                      general         Nike Air Zoom Vomero 5                                       prod_71
+10103    Nike                      general         Nike Mid-Cut Crew Socks                                      prod_103
+10235    Denim Tears               bags            Denim Tears Cotton Wreath Hoodie                             prod_235
+10303    Christian Louboutin       shoes           Christian Louboutin Louis Junior Spikes Sneaker              prod_303
+10282    Chrome Hearts             pants           Premium Pants                                                prod_282
+10023    Saint Laurent             shoes           Saint Laurent Court Classic SL/06 Handwritten Sneaker        prod_23
+10194    Other                     jackets         Premium Jacket                                               prod_194
+10367    Other                     hoodies         Premium Hoodie                                               prod_367
+10239    Other                     bags            Premium Bag                                                  prod_239
+10358    Denim Tears               hoodies         Denim Tears Cotton Wreath Hoodie                             prod_358
+10149    New Balance               shoes           New Balance 993 'Aime Leon Dore'                             prod_149
+10331    New Balance               shoes           New Balance 9060 Sea Salt                                    prod_331
+10293    Louis Vuitton             bags            Louis Vuitton Nano Speedy (Denim Monogram)                   prod_293
+10341    Polo Ralph Lauren         general         Premium Cardigan                                             prod_341
+10016    Other                     pants           Premium Pants                                                prod_16
+10313    Chrome Hearts             shoes           Chrome Hearts Forever Spacer Ring                            prod_313
+10246    Other                     bags            Premium Bag                                                  prod_246
+10030    Other                     general         Premium General                                              prod_30
+10340    Jordan                    shoes           Travis Scott x Air Jordan 1 Low Reverse Mocha                prod_340
+10332    Adidas                    shoes           Adidas Samba OG Core Black                                   prod_332
+10010    Other                     jackets         Premium Jacket                                               prod_10
+10095    Prada                     pants           Prada Nylon Cargo Pants                                      prod_95
+10108    Supreme                   jackets         Supreme x Umbro Tracksuit                                    prod_108
+10116    Nike                      shoes           Nike Air Max 90 'Infrared'                                   prod_116
+10104    Stussy                    jackets         Stussy Hooded Puffer Jacket                                  prod_104
+10199    Other                     jackets         Premium Jacket                                               prod_199
+10378    Rick Owens                pants           Rick Owens DRKSHDW Drawstring Sweatpants                     prod_378
+10361    Corteiz                   jackets         Corteiz Allstar Zip Hoodie                                   prod_361
+10294    Other                     pants           Premium Pants                                                prod_294
+10083    Dior                      sets            Dior B23 High-Top 'Oblique'                                  prod_83
+10198    Polo Ralph Lauren         pants           Polo Ralph Lauren Cardigan Sweater                           prod_198
+10362    Dior                      accessories     Dior Oblique Zip Hoodie                                      prod_362
+10186    Hellstar                  pants           Hellstar Pink Flame Flare Tracksuit                          prod_186
+10380    Louis Vuitton             shoes           Louis Vuitton Keepall Bandouliere 50 Monogram                prod_380
+10271    C.P. Company              jackets         C.P. Company Goggle Lens Hooded Puffer Jacket                prod_271
+10359    Other                     pants           Saint Alexander Tracksuit                                    prod_359
+10315    Chrome Hearts             shoes           Chrome Hearts Filigree Cross Pendant                         prod_315
+10113    Syna World                jackets         Syna World Shell Jacket                                      prod_113
+10192    Jordan                    shoes           Nike Air Jordan 1 Retro High OG University Blue              prod_192
+10350    Nike                      jackets         Nike Tech Fleece Hoodie                                      prod_350
+10356    Nike                      sets            Nike Tech Fleece Tracksuit Set                               prod_356
+10259    Nike                      shoes           Nike Air Max 90 Infrared                                     prod_259
+10292    Nike                      shoes           Nike Dunk Low Grey Fog                                       prod_292
+10370    Polo Ralph Lauren         general         Premium General                                              prod_370
+10305    Balenciaga                shoes           Balenciaga Defender / Bouncer Sneaker Black                  prod_305
+10152    Salomon                   pants           Salomon XT-6 'Black Phantom'                                 prod_152
+10328    Timberland                shoes           Timberland 6-Inch Premium Waterproof Boot                    prod_328
+10078    BAPE                      shoes           A Bathing Ape Bape Sta 'White/Red'                           prod_78
+10037    Other                     pants           Premium Pants                                                prod_37
+10347    Nike                      shoes           Nike Air Max Plus TN Sneakers                                prod_347
+10215    Other                     hoodies         Premium Hoodie                                               prod_215
+10112    Stussy                    general         Stussy Basic Stock Hoodie Gray                               prod_112
+10054    Denim Tears               sets            Denim Tears Cotton Wreath Tracksuit                          prod_54
+10330    Purple Brand              pants           Purple Brand Slim-Fit Distressed Denim Jeans                 prod_330
+10230    Nike                      jackets         Nike x NOCTA Reflective Jacket                               prod_230
+10287    Nike                      shoes           Nike Air Max Plus 3 TN Retro                                 prod_287
+10169    Burberry                  shoes           Burberry Vintage Check Sneakers                              prod_169
+10038    Other                     general         Premium General                                              prod_38
+10317    Stone Island              jackets         Stone Island Lightweight Water-Repellent Windbreaker Jacke   prod_317
+10132    Apple                     hoodies         Apple AirPods Pro (2nd Generation)                           prod_132
+10257    Nike                      jackets         Nike ACG Sleeveless Vest                                     prod_257
+10289    Hellstar                  hoodies         Hellstar Studios Tracksuit (Hoodie & Sweatpants)             prod_289
+10338    Other                     general         Premium General                                              prod_338
+10258    Other                     pants           Premium Pants                                                prod_258
+10153    Nike                      shoes           Nike Air Max Plus (TN) Sneakers                              prod_153
+10365    Chrome Hearts             hoodies         Chrome Hearts Horseshoe Logo Hoodie                          prod_365
+10352    Nike                      shoes           Nike Air Max Plus TN Retro                                   prod_352
+10072    Burberry                  shoes           Burberry Low-Top Check Sneakers                              prod_72
+10261    Nike                      shoes           Premium Sneaker                                              prod_261
+10000    Other                     shoes           Premium Sneaker                                              prod_0
+10047    Other                     hoodies         Premium Hoodie                                               prod_47
+10178    Other                     tshirts         Premium T-Shirt                                              prod_178
+10069    Nike                      electronics     Nike Air Max Plus TN 'Voltage Purple'                        prod_69
+10236    Corteiz                   jackets         Corteiz Velour Tracksuit                                     prod_236
+10357    Nike                      shoes           Nike Dunk Low Retro Sneakers                                 prod_357
+10053    Nike                      general         Nike Air Vapormax Plus 'Triple Black'                        prod_53
+10088    Nike                      jackets         Nike Windbreaker Jacket                                      prod_88
+10043    Other                     general         Premium General                                              prod_43
+10269    Other                     shoes           Premium Sneaker                                              prod_269
+10266    Fear of God               pants           FOG Essentials Sweat Shorts                                  prod_266
+10167    Lacoste                   jackets         Lacoste Quarter-Zip Knit Sweater                             prod_167
+10208    Nike                      pants           Jordan Jumpman Sweatpants                                    prod_208
+10224    Vlone                     hoodies         Vlone Friends Mosaic Logo Hoodie                             prod_224
+10372    Louis Vuitton             bags            LV Artistic Print Leather Wallet                             prod_372
+10025    Other                     pants           Premium Pants                                                prod_25
+10344    Adidas                    shoes           Adidas F50 Elite AG Soccer Cleats                            prod_344
+10059    Christian Louboutin       hoodies         Christian Louboutin Louis Junior Spikes 'White'              prod_59
+10355    Gallery Dept.             pants           Gallery Dept. Painted Flare & Splatter Sweatpants            prod_355
+10318    Purple Brand              hoodies         Purple Brand Hooded Sweatshirt & Flare Sweatpants Set        prod_318
+10127    Louis Vuitton             general         Louis Vuitton Christopher Backpack MM                        prod_127
+10119    Adidas                    tshirts         Adidas Yeezy 700 V3 'Azael'                                  prod_119
+10064    Gallery Dept.             pants           Gallery Dept. Flare Sweatpants                               prod_64
+10207    Other                     general         Premium General                                              prod_207
+10090    Nike                      shoes           Nike SB Dunk Low 'UNC'                                       prod_90
+10097    Prada                     general         Prada Cloudbust Thunder 'Black'                              prod_97
+10096    Nike                      general         Nike Stussy Spiridon Cage 2 'Fossil'                         prod_96
+10040    Other                     general         Premium General                                              prod_40
+10068    Nike                      accessories     Nike Air Max Plus TN 'Sunset Orange'                         prod_68
+10371    Chrome Hearts             general         Premium General                                              prod_371
+10383    Yeezy                     hoodies         Yeezy Gap Round Jacket                                       prod_383
+10377    Prada                     hoodies         Prada Nylon Gabardine Tracksuit                              prod_377
+10124    Supreme                   general         Supreme Box Logo Tee White                                   prod_124
+10117    Louis Vuitton             general         Louis Vuitton Water-Reactive Monogram Swim Shorts            prod_117
+10209    Other                     pants           Premium Pants                                                prod_209
+10335    Other                     hoodies         Premium Hoodie                                               prod_335
+10278    Chrome Hearts             general         Chrome Hearts Cross Logo Hat                                 prod_278
+10110    Stone Island              hoodies         Stone Island Compass Patch Crewneck Sweatshirt               prod_110
+10233    Stone Island              hoodies         Stone Island Classic Logo Patch Sweatshirt                   prod_233
+10343    Alo Yoga                  jackets         Alo Yoga Hooded Sweatshirt                                   prod_343
+10024    Other                     tshirts         Premium Tee                                                  prod_24
+10333    Fear of God               tshirts         Premium T-Shirt                                              prod_333
+10074    Stussy                    tshirts         Stussy Jennie Kim Vintage Tee                                prod_74
+10183    Soccer                    jackets         Football National Team Training Tracksuit                    prod_183
+10094    Prada                     accessories     Prada Nylon Bucket Hat & Baseball Cap                        prod_94
+10075    Alo Yoga                  hoodies         Alo Yoga Jisoo Collection Half-Zip Pullover                  prod_75
+10376    Nike                      pants           Premium Pants                                                prod_376
+10263    American Vintage          jackets         American Vintage Washed Hoodie (Oversized)                   prod_263
+10011    Other                     tshirts         Nike T-Shirt                                                 prod_11
+10392    Hellstar                  pants           Hellstar Flame Logo Mesh Shorts                              prod_392
+10391    Fear of God               pants           FOG Essentials Sweat Shorts with Logo                        prod_391
+10150    ASICS                     shoes           ASICS x JJJJound Gel-Kayano 14                               prod_150
+10231    Corteiz                   jackets         Corteiz Devil Print Tracksuit                                prod_231
+10142    Ami Paris                 general         Ami Paris Heart Embroidered Sweater                          prod_142
+10202    Louis Vuitton             accessories     Premium Belt                                                 prod_202
+10211    Other                     hoodies         Premium Hoodie                                               prod_211
+10260    Other                     general         Premium General                                              prod_260
+10295    FC Barcelona              jerseys         Cactus Jack x FC Barcelona 24/25 Home Jersey                 prod_295
+10138    NBA                       jerseys         Retro Golden State Warriors Basketball Jersey                prod_138
+10120    Adidas                    hoodies         Adidas Yeezy 500 'Utility Black'                             prod_120
+10316    Fear of God               pants           FOG Essentials Sweat Shorts                                  prod_316
+10144    New Balance               bags            New Balance 550 White/Grey                                   prod_144
+10007    Other                     accessories     Premium Accessories                                          prod_7
+10342    Fear of God               tshirts         Premium T-Shirt                                              prod_342
+10201    Corteiz                   jackets         Corteiz Alcatraz Tracksuit                                   prod_201
+10300    Retro Football            jerseys         Retro Football Jersey Collection - AC Milan & Arsenal & Cr   prod_300
+10006    Fear of God               pants           FOG Essentials Zip-Back Sweatpants                           prod_6
+10250    Chrome Hearts             accessories     Premium Accessories                                          prod_250
+10346    Zadig & Voltaire          bags            Zadig & Voltaire Rock Wings Leather Crossbody Bag            prod_346
+10245    Other                     pants           Premium Pants                                                prod_245
+10148    New Balance               jerseys         New Balance 990v3 Core Grey                                  prod_148
+10387    Chrome Hearts             tshirts         Chrome Hearts T-Shirt                                        prod_387
+10197    Nike                      tshirts         Premium T-Shirt                                              prod_197
+10184    Other                     tshirts         Premium T-Shirt                                              prod_184
+10009    Other                     tshirts         Premium Tee                                                  prod_9
+10308    Chrome Hearts             general         Premium General                                              prod_308
+10369    Other                     accessories     Premium Accessories                                          prod_369
+10291    Other                     general         Premium General                                              prod_291
+10003    Other                     bags            Premium Bag                                                  prod_3
+10299    Real Madrid               jerseys         Real Madrid 24/25 Home Jersey                                prod_299
+10191    Stussy                    jackets         Stussy 8-Ball Dice Sweatshirt                                prod_191
+10196    Other                     accessories     Premium Belt                                                 prod_196
+10277    Other                     accessories     Premium Accessories                                          prod_277
+10243    Chrome Hearts             accessories     Premium Accessories                                          prod_243
+10339    Other                     accessories     Premium Accessories                                          prod_339
+10255    Other                     tshirts         Premium Tee                                                  prod_255
+10001    Other                     general         Premium General                                              prod_1
+10147    New Balance               jerseys         New Balance 9060 'Rain Cloud'                                prod_147
+10302    Other                     pants           Premium Pants                                                prod_302
+10005    Other                     tshirts         Premium T-Shirt                                              prod_5
+10155    Stone Island              general         Stone Island Ghost Piece Overshirt                           prod_155
+10309    Other                     pants           Premium Pants                                                prod_309
+10323    Other                     jackets         Premium Hoodie                                               prod_323
+10326    Other                     pants           Premium Pants                                                prod_326
+10288    Other                     pants           Premium Pants                                                prod_288
+10262    Other                     tshirts         Premium T-Shirt                                              prod_262
+10297    Other                     jerseys         Premium Jersey                                               prod_297
+10151    ASICS                     accessories     Asics Gel-1130 White/Green                                   prod_151
+10129    Chrome Hearts             accessories     Chrome Hearts Cross Logo Tee                                 prod_129
+10337    Nike                      tshirts         Nike Football Training Jersey                                prod_337
+10173    Other                     pants           Premium Pants                                                prod_173
+10240    Other                     bags            Premium Bag                                                  prod_240
+10390    Hermes                    bags            Luxurious Geometric Patterned Messenger Bag                  prod_390
+10079    Louis Vuitton             accessories     Louis Vuitton Monogram Belt                                  prod_79
+10115    Nike                      general         Nike Air Max Plus TN Gradient Blue                           prod_115
+10204    Gucci                     accessories     Premium Belt                                                 prod_204
+10329    Nike                      sets            Premium Tee                                                  prod_329
+10080    Moncler                   accessories     Moncler Knit Beanie                                          prod_80
+10238    Polo Ralph Lauren         accessories     Polo Ralph Lauren Pony Logo Beanie                           prod_238
+10225    Nike                      accessories     Nike Futura Logo Cap                                         prod_225
+10176    Other                     accessories     Premium Cap                                                  prod_176
+10228    Other                     hoodies         Premium Hoodie                                               prod_228
+10076    Mihara Yasuhiro           pants           Maison Mihara Yasuhiro Peterson Low 'White'                  prod_76
+10312    Gucci                     accessories     Premium Belt                                                 prod_312
+10048    Other                     accessories     Premium Cap                                                  prod_48
+10092    Nike                      pants           Nike x Sacai VaporWaffle 'Black Gum'                         prod_92
+10114    Syna World                accessories     Syna World Classic Logo Hoodie                               prod_114
+10252    Other                     accessories     Premium Belt                                                 prod_252
+10098    Prada                     general         Prada Cloudbust Thunder 'Grey'                               prod_98
+10181    Other                     general         Premium General                                              prod_181
+
+
+=== POTENTIAL MISMATCHES ===
+Products where brand/title may not match category:
+
+ID: 10093 | prod_93
+  Title: Rick Owens Drkshdw Ramones High
+  Brand: Rick Owens | Category: pants
+  鈿?Category is 'pants' but title seems wrong
+
+ID: 10126 | prod_126
+  Title: Gucci GG Supreme Messenger Bag
+  Brand: Gucci | Category: jackets
+  鈿?Category is 'jackets' but title mentions bags/shoes
+
+ID: 10036 | prod_36
+  Title: Classic Cotton Zip-Up Hoodie
+  Brand: Corteiz | Category: hoodies
+  鈿?Brand 'Corteiz' not found in title
+
+ID: 10135 | prod_135
+  Title: Designer Knitwear Collection (Dior/LV/Celine)
+  Brand: Mixed Luxury | Category: general
+  鈿?Brand 'Mixed Luxury' not found in title
+
+ID: 10105 | prod_105
+  Title: Asics Gel-Kayano 14 'Metallic Silver'
+  Brand: ASICS | Category: shoes
+  鈿?Category is 'shoes' but title doesn't seem shoe-related
+
+ID: 10301 | prod_301
+  Title: Nike Nocta x Hot Step Terra Collection
+  Brand: Nike | Category: shoes
+  鈿?Category is 'shoes' but title doesn't seem shoe-related
+
+ID: 10158 | prod_158
+  Title: Stone Island Lambswool Crewneck Knit
+  Brand: Stone Island | Category: shoes
+  鈿?Category is 'shoes' but title doesn't seem shoe-related
+
+ID: 10280 | prod_280
+  Title: Premium Pants
+  Brand: Other | Category: pants
+  鈿?Brand 'Other' not found in title
+
+ID: 10203 | prod_203
+  Title: New Balance 2002R Protection Pack Rain Cloud
+  Brand: New Balance | Category: shoes
+  鈿?Category is 'shoes' but title doesn't seem shoe-related
+
+ID: 10353 | prod_353
+  Title: Premium General
+  Brand: Other | Category: general
+  鈿?Brand 'Other' not found in title
+
+ID: 10284 | prod_284
+  Title: Premium General
+  Brand: Other | Category: general
+  鈿?Brand 'Other' not found in title
+
+ID: 10004 | prod_4
+  Title: Premium Accessories
+  Brand: Other | Category: accessories
+  鈿?Brand 'Other' not found in title
+
+ID: 10321 | prod_321
+  Title: Premium Accessories
+  Brand: Versace | Category: accessories
+  鈿?Brand 'Versace' not found in title
+
+ID: 10385 | prod_385
+  Title: Premium Puffer Jacket
+  Brand: Nike | Category: jackets
+  鈿?Brand 'Nike' not found in title
+
+ID: 10028 | prod_28
+  Title: Premium General
+  Brand: Other | Category: general
+  鈿?Brand 'Other' not found in title
+
+ID: 10021 | prod_21
+  Title: Premium General
+  Brand: Other | Category: general
+  鈿?Brand 'Other' not found in title
+
+ID: 10195 | prod_195
+  Title: Premium Bag
+  Brand: Other | Category: bags
+  鈿?Brand 'Other' not found in title
+
+ID: 10285 | prod_285
+  Title: Premium General
+  Brand: Other | Category: general
+  鈿?Brand 'Other' not found in title
+
+ID: 10286 | prod_286
+  Title: Premium General
+  Brand: Other | Category: general
+  鈿?Brand 'Other' not found in title
+
+ID: 10241 | prod_241
+  Title: Premium Bag
+  Brand: Other | Category: bags
+  鈿?Brand 'Other' not found in title
+
+ID: 10106 | prod_106
+  Title: Bape College Logo Tee White
+  Brand: BAPE | Category: shoes
+  鈿?Category is 'shoes' but title doesn't seem shoe-related
+
+ID: 10039 | prod_39
+  Title: Premium Hoodie
+  Brand: Other | Category: hoodies
+  鈿?Brand 'Other' not found in title
+
+ID: 10041 | prod_41
+  Title: Premium Pants
+  Brand: Other | Category: pants
+  鈿?Brand 'Other' not found in title
+
+ID: 10145 | prod_145
+  Title: New Balance 2002R 'Protection Pack'
+  Brand: New Balance | Category: shoes
+  鈿?Category is 'shoes' but title doesn't seem shoe-related
+
+ID: 10389 | prod_389
+  Title: Premium General
+  Brand: Other | Category: general
+  鈿?Brand 'Other' not found in title
+
+ID: 10084 | prod_84
+  Title: Dior B23 Low-Top 'Oblique'
+  Brand: Dior | Category: shoes
+  鈿?Category is 'shoes' but title doesn't seem shoe-related
+
+ID: 10379 | prod_379
+  Title: Premium Pants
+  Brand: Other | Category: pants
+  鈿?Brand 'Other' not found in title
+
+ID: 10187 | prod_187
+  Title: Premium Bag
+  Brand: Other | Category: bags
+  鈿?Brand 'Other' not found in title
+
+ID: 10100 | prod_100
+  Title: Premium General
+  Brand: Other | Category: general
+  鈿?Brand 'Other' not found in title
+
+ID: 10171 | prod_171
+  Title: Premium Bag
+  Brand: Other | Category: bags
+  鈿?Brand 'Other' not found in title
+
+ID: 10177 | prod_177
+  Title: Premium General
+  Brand: Other | Category: general
+  鈿?Brand 'Other' not found in title
+
+ID: 10168 | prod_168
+  Title: Premium Hoodie
+  Brand: Other | Category: hoodies
+  鈿?Brand 'Other' not found in title
+
+ID: 10218 | prod_218
+  Title: Premium Puffer
+  Brand: Other | Category: jackets
+  鈿?Brand 'Other' not found in title
+
+ID: 10319 | prod_319
+  Title: Premium General
+  Brand: Stussy | Category: general
+  鈿?Brand 'Stussy' not found in title
+
+ID: 10279 | prod_279
+  Title: Premium Pants
+  Brand: Other | Category: pants
+  鈿?Brand 'Other' not found in title
+
+ID: 10205 | prod_205
+  Title: Premium Tee
+  Brand: Other | Category: tshirts
+  鈿?Brand 'Other' not found in title
+
+ID: 10190 | prod_190
+  Title: Premium Jacket
+  Brand: Other | Category: jackets
+  鈿?Brand 'Other' not found in title
+
+ID: 10325 | prod_325
+  Title: Premium Pants
+  Brand: Other | Category: pants
+  鈿?Brand 'Other' not found in title
+
+ID: 10244 | prod_244
+  Title: Hermes Oran Sandals Gold/White
+  Brand: Herm猫s | Category: shoes
+  鈿?Brand 'Herm猫s' not found in title
+
+ID: 10222 | prod_222
+  Title: Premium Cap
+  Brand: Other | Category: accessories
+  鈿?Brand 'Other' not found in title
+
+ID: 10214 | prod_214
+  Title: Premium Hoodie
+  Brand: Other | Category: hoodies
+  鈿?Brand 'Other' not found in title
+
+ID: 10216 | prod_216
+  Title: Premium Accessories
+  Brand: Other | Category: accessories
+  鈿?Brand 'Other' not found in title
+
+ID: 10065 | prod_65
+  Title: Gymshark Training T-Shirt
+  Brand: Balenciaga | Category: tshirts
+  鈿?Brand 'Balenciaga' not found in title
+
+ID: 10164 | prod_164
+  Title: Premium T-Shirt
+  Brand: Other | Category: tshirts
+  鈿?Brand 'Other' not found in title
+
+ID: 10166 | prod_166
+  Title: Premium Hoodie
+  Brand: Other | Category: hoodies
+  鈿?Brand 'Other' not found in title
+
+ID: 10180 | prod_180
+  Title: Premium Cap
+  Brand: Other | Category: accessories
+  鈿?Brand 'Other' not found in title
+
+ID: 10384 | prod_384
+  Title: Premium T-Shirt
+  Brand: Nike | Category: tshirts
+  鈿?Brand 'Nike' not found in title
+
+ID: 10185 | prod_185
+  Title: Premium Accessories
+  Brand: Other | Category: accessories
+  鈿?Brand 'Other' not found in title
+
+ID: 10382 | prod_382
+  Title: Premium Accessories
+  Brand: Chrome Hearts | Category: accessories
+  鈿?Brand 'Chrome Hearts' not found in title
+
+ID: 10188 | prod_188
+  Title: Premium T-Shirt
+  Brand: Other | Category: tshirts
+  鈿?Brand 'Other' not found in title
+
+ID: 10272 | prod_272
+  Title: Premium Jacket
+  Brand: Other | Category: jackets
+  鈿?Brand 'Other' not found in title
+
+ID: 10032 | prod_32
+  Title: Premium Bag
+  Brand: Other | Category: bags
+  鈿?Brand 'Other' not found in title
+
+ID: 10091 | prod_91
+  Title: Nike x Sacai VaporWaffle 'Royal Fuchsia'
+  Brand: Nike | Category: shoes
+  鈿?Category is 'shoes' but title doesn't seem shoe-related
+
+ID: 10077 | prod_77
+  Title: A Bathing Ape Bape Sta 'White/Blue'
+  Brand: BAPE | Category: shoes
+  鈿?Category is 'shoes' but title doesn't seem shoe-related
+
+ID: 10008 | prod_8
+  Title: Premium Puffer Jacket
+  Brand: Other | Category: jackets
+  鈿?Brand 'Other' not found in title
+
+ID: 10282 | prod_282
+  Title: Premium Pants
+  Brand: Chrome Hearts | Category: pants
+  鈿?Brand 'Chrome Hearts' not found in title
+
+ID: 10194 | prod_194
+  Title: Premium Jacket
+  Brand: Other | Category: jackets
+  鈿?Brand 'Other' not found in title
+
+ID: 10367 | prod_367
+  Title: Premium Hoodie
+  Brand: Other | Category: hoodies
+  鈿?Brand 'Other' not found in title
+
+ID: 10239 | prod_239
+  Title: Premium Bag
+  Brand: Other | Category: bags
+  鈿?Brand 'Other' not found in title
+
+ID: 10149 | prod_149
+  Title: New Balance 993 'Aime Leon Dore'
+  Brand: New Balance | Category: shoes
+  鈿?Category is 'shoes' but title doesn't seem shoe-related
+
+ID: 10331 | prod_331
+  Title: New Balance 9060 Sea Salt
+  Brand: New Balance | Category: shoes
+  鈿?Category is 'shoes' but title doesn't seem shoe-related
+
+ID: 10341 | prod_341
+  Title: Premium Cardigan
+  Brand: Polo Ralph Lauren | Category: general
+  鈿?Brand 'Polo Ralph Lauren' not found in title
+
+ID: 10016 | prod_16
+  Title: Premium Pants
+  Brand: Other | Category: pants
+  鈿?Brand 'Other' not found in title
+
+ID: 10313 | prod_313
+  Title: Chrome Hearts Forever Spacer Ring
+  Brand: Chrome Hearts | Category: shoes
+  鈿?Category is 'shoes' but title doesn't seem shoe-related
+
+ID: 10246 | prod_246
+  Title: Premium Bag
+  Brand: Other | Category: bags
+  鈿?Brand 'Other' not found in title
+
+ID: 10030 | prod_30
+  Title: Premium General
+  Brand: Other | Category: general
+  鈿?Brand 'Other' not found in title
+
+ID: 10332 | prod_332
+  Title: Adidas Samba OG Core Black
+  Brand: Adidas | Category: shoes
+  鈿?Category is 'shoes' but title doesn't seem shoe-related
+
+ID: 10010 | prod_10
+  Title: Premium Jacket
+  Brand: Other | Category: jackets
+  鈿?Brand 'Other' not found in title
+
+ID: 10199 | prod_199
+  Title: Premium Jacket
+  Brand: Other | Category: jackets
+  鈿?Brand 'Other' not found in title
+
+ID: 10294 | prod_294
+  Title: Premium Pants
+  Brand: Other | Category: pants
+  鈿?Brand 'Other' not found in title
+
+ID: 10380 | prod_380
+  Title: Louis Vuitton Keepall Bandouliere 50 Monogram
+  Brand: Louis Vuitton | Category: shoes
+  鈿?Category is 'shoes' but title doesn't seem shoe-related
+
+ID: 10359 | prod_359
+  Title: Saint Alexander Tracksuit
+  Brand: Other | Category: pants
+  鈿?Brand 'Other' not found in title
+
+ID: 10315 | prod_315
+  Title: Chrome Hearts Filigree Cross Pendant
+  Brand: Chrome Hearts | Category: shoes
+  鈿?Category is 'shoes' but title doesn't seem shoe-related
+
+ID: 10370 | prod_370
+  Title: Premium General
+  Brand: Polo Ralph Lauren | Category: general
+  鈿?Brand 'Polo Ralph Lauren' not found in title
+
+ID: 10078 | prod_78
+  Title: A Bathing Ape Bape Sta 'White/Red'
+  Brand: BAPE | Category: shoes
+  鈿?Category is 'shoes' but title doesn't seem shoe-related
+
+ID: 10037 | prod_37
+  Title: Premium Pants
+  Brand: Other | Category: pants
+  鈿?Brand 'Other' not found in title
+
+ID: 10215 | prod_215
+  Title: Premium Hoodie
+  Brand: Other | Category: hoodies
+  鈿?Brand 'Other' not found in title
+
+ID: 10038 | prod_38
+  Title: Premium General
+  Brand: Other | Category: general
+  鈿?Brand 'Other' not found in title
+
+ID: 10338 | prod_338
+  Title: Premium General
+  Brand: Other | Category: general
+  鈿?Brand 'Other' not found in title
+
+ID: 10258 | prod_258
+  Title: Premium Pants
+  Brand: Other | Category: pants
+  鈿?Brand 'Other' not found in title
+
+ID: 10261 | prod_261
+  Title: Premium Sneaker
+  Brand: Nike | Category: shoes
+  鈿?Brand 'Nike' not found in title
+
+ID: 10000 | prod_0
+  Title: Premium Sneaker
+  Brand: Other | Category: shoes
+  鈿?Brand 'Other' not found in title
+
+ID: 10047 | prod_47
+  Title: Premium Hoodie
+  Brand: Other | Category: hoodies
+  鈿?Brand 'Other' not found in title
+
+ID: 10178 | prod_178
+  Title: Premium T-Shirt
+  Brand: Other | Category: tshirts
+  鈿?Brand 'Other' not found in title
+
+ID: 10043 | prod_43
+  Title: Premium General
+  Brand: Other | Category: general
+  鈿?Brand 'Other' not found in title
+
+ID: 10269 | prod_269
+  Title: Premium Sneaker
+  Brand: Other | Category: shoes
+  鈿?Brand 'Other' not found in title
+
+ID: 10208 | prod_208
+  Title: Jordan Jumpman Sweatpants
+  Brand: Nike | Category: pants
+  鈿?Brand 'Nike' not found in title
+
+ID: 10372 | prod_372
+  Title: LV Artistic Print Leather Wallet
+  Brand: Louis Vuitton | Category: bags
+  鈿?Brand 'Louis Vuitton' not found in title
+
+ID: 10025 | prod_25
+  Title: Premium Pants
+  Brand: Other | Category: pants
+  鈿?Brand 'Other' not found in title
+
+ID: 10344 | prod_344
+  Title: Adidas F50 Elite AG Soccer Cleats
+  Brand: Adidas | Category: shoes
+  鈿?Category is 'shoes' but title doesn't seem shoe-related
+
+ID: 10207 | prod_207
+  Title: Premium General
+  Brand: Other | Category: general
+  鈿?Brand 'Other' not found in title
+
+ID: 10040 | prod_40
+  Title: Premium General
+  Brand: Other | Category: general
+  鈿?Brand 'Other' not found in title
+
+ID: 10371 | prod_371
+  Title: Premium General
+  Brand: Chrome Hearts | Category: general
+  鈿?Brand 'Chrome Hearts' not found in title
+
+ID: 10209 | prod_209
+  Title: Premium Pants
+  Brand: Other | Category: pants
+  鈿?Brand 'Other' not found in title
+
+ID: 10335 | prod_335
+  Title: Premium Hoodie
+  Brand: Other | Category: hoodies
+  鈿?Brand 'Other' not found in title
+
+ID: 10024 | prod_24
+  Title: Premium Tee
+  Brand: Other | Category: tshirts
+  鈿?Brand 'Other' not found in title
+
+ID: 10183 | prod_183
+  Title: Football National Team Training Tracksuit
+  Brand: Soccer | Category: jackets
+  鈿?Brand 'Soccer' not found in title
+
+ID: 10376 | prod_376
+  Title: Premium Pants
+  Brand: Nike | Category: pants
+  鈿?Brand 'Nike' not found in title
+
+ID: 10011 | prod_11
+  Title: Nike T-Shirt
+  Brand: Other | Category: tshirts
+  鈿?Brand 'Other' not found in title
+
+ID: 10150 | prod_150
+  Title: ASICS x JJJJound Gel-Kayano 14
+  Brand: ASICS | Category: shoes
+  鈿?Category is 'shoes' but title doesn't seem shoe-related
+
+ID: 10202 | prod_202
+  Title: Premium Belt
+  Brand: Louis Vuitton | Category: accessories
+  鈿?Brand 'Louis Vuitton' not found in title
+
+ID: 10211 | prod_211
+  Title: Premium Hoodie
+  Brand: Other | Category: hoodies
+  鈿?Brand 'Other' not found in title
+
+ID: 10260 | prod_260
+  Title: Premium General
+  Brand: Other | Category: general
+  鈿?Brand 'Other' not found in title
+
+ID: 10138 | prod_138
+  Title: Retro Golden State Warriors Basketball Jersey
+  Brand: NBA | Category: jerseys
+  鈿?Brand 'NBA' not found in title
+
+ID: 10007 | prod_7
+  Title: Premium Accessories
+  Brand: Other | Category: accessories
+  鈿?Brand 'Other' not found in title
+
+ID: 10250 | prod_250
+  Title: Premium Accessories
+  Brand: Chrome Hearts | Category: accessories
+  鈿?Brand 'Chrome Hearts' not found in title
+
+ID: 10245 | prod_245
+  Title: Premium Pants
+  Brand: Other | Category: pants
+  鈿?Brand 'Other' not found in title
+
+ID: 10197 | prod_197
+  Title: Premium T-Shirt
+  Brand: Nike | Category: tshirts
+  鈿?Brand 'Nike' not found in title
+
+ID: 10184 | prod_184
+  Title: Premium T-Shirt
+  Brand: Other | Category: tshirts
+  鈿?Brand 'Other' not found in title
+
+ID: 10009 | prod_9
+  Title: Premium Tee
+  Brand: Other | Category: tshirts
+  鈿?Brand 'Other' not found in title
+
+ID: 10308 | prod_308
+  Title: Premium General
+  Brand: Chrome Hearts | Category: general
+  鈿?Brand 'Chrome Hearts' not found in title
+
+ID: 10369 | prod_369
+  Title: Premium Accessories
+  Brand: Other | Category: accessories
+  鈿?Brand 'Other' not found in title
+
+ID: 10291 | prod_291
+  Title: Premium General
+  Brand: Other | Category: general
+  鈿?Brand 'Other' not found in title
+
+ID: 10003 | prod_3
+  Title: Premium Bag
+  Brand: Other | Category: bags
+  鈿?Brand 'Other' not found in title
+
+ID: 10196 | prod_196
+  Title: Premium Belt
+  Brand: Other | Category: accessories
+  鈿?Brand 'Other' not found in title
+
+ID: 10277 | prod_277
+  Title: Premium Accessories
+  Brand: Other | Category: accessories
+  鈿?Brand 'Other' not found in title
+
+ID: 10243 | prod_243
+  Title: Premium Accessories
+  Brand: Chrome Hearts | Category: accessories
+  鈿?Brand 'Chrome Hearts' not found in title
+
+ID: 10339 | prod_339
+  Title: Premium Accessories
+  Brand: Other | Category: accessories
+  鈿?Brand 'Other' not found in title
+
+ID: 10255 | prod_255
+  Title: Premium Tee
+  Brand: Other | Category: tshirts
+  鈿?Brand 'Other' not found in title
+
+ID: 10001 | prod_1
+  Title: Premium General
+  Brand: Other | Category: general
+  鈿?Brand 'Other' not found in title
+
+ID: 10302 | prod_302
+  Title: Premium Pants
+  Brand: Other | Category: pants
+  鈿?Brand 'Other' not found in title
+
+ID: 10005 | prod_5
+  Title: Premium T-Shirt
+  Brand: Other | Category: tshirts
+  鈿?Brand 'Other' not found in title
+
+ID: 10309 | prod_309
+  Title: Premium Pants
+  Brand: Other | Category: pants
+  鈿?Brand 'Other' not found in title
+
+ID: 10323 | prod_323
+  Title: Premium Hoodie
+  Brand: Other | Category: jackets
+  鈿?Brand 'Other' not found in title
+
+ID: 10326 | prod_326
+  Title: Premium Pants
+  Brand: Other | Category: pants
+  鈿?Brand 'Other' not found in title
+
+ID: 10288 | prod_288
+  Title: Premium Pants
+  Brand: Other | Category: pants
+  鈿?Brand 'Other' not found in title
+
+ID: 10262 | prod_262
+  Title: Premium T-Shirt
+  Brand: Other | Category: tshirts
+  鈿?Brand 'Other' not found in title
+
+ID: 10297 | prod_297
+  Title: Premium Jersey
+  Brand: Other | Category: jerseys
+  鈿?Brand 'Other' not found in title
+
+ID: 10173 | prod_173
+  Title: Premium Pants
+  Brand: Other | Category: pants
+  鈿?Brand 'Other' not found in title
+
+ID: 10240 | prod_240
+  Title: Premium Bag
+  Brand: Other | Category: bags
+  鈿?Brand 'Other' not found in title
+
+ID: 10390 | prod_390
+  Title: Luxurious Geometric Patterned Messenger Bag
+  Brand: Hermes | Category: bags
+  鈿?Brand 'Hermes' not found in title
+
+ID: 10204 | prod_204
+  Title: Premium Belt
+  Brand: Gucci | Category: accessories
+  鈿?Brand 'Gucci' not found in title
+
+ID: 10329 | prod_329
+  Title: Premium Tee
+  Brand: Nike | Category: sets
+  鈿?Brand 'Nike' not found in title
+
+ID: 10176 | prod_176
+  Title: Premium Cap
+  Brand: Other | Category: accessories
+  鈿?Brand 'Other' not found in title
+
+ID: 10228 | prod_228
+  Title: Premium Hoodie
+  Brand: Other | Category: hoodies
+  鈿?Brand 'Other' not found in title
+
+ID: 10312 | prod_312
+  Title: Premium Belt
+  Brand: Gucci | Category: accessories
+  鈿?Brand 'Gucci' not found in title
+
+ID: 10048 | prod_48
+  Title: Premium Cap
+  Brand: Other | Category: accessories
+  鈿?Brand 'Other' not found in title
+
+ID: 10252 | prod_252
+  Title: Premium Belt
+  Brand: Other | Category: accessories
+  鈿?Brand 'Other' not found in title
+
+ID: 10181 | prod_181
+  Title: Premium General
+  Brand: Other | Category: general
+  鈿?Brand 'Other' not found in title
