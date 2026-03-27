@@ -21,6 +21,24 @@ document.addEventListener('DOMContentLoaded', () => {
   populateBrandsDropdown();
   renderProducts();
   setupEventListeners();
+  
+  // Check for product ID in URL on load for direct link sharing
+  const urlParams = new URLSearchParams(window.location.search);
+  const productId = urlParams.get('id');
+  if (productId) {
+    setTimeout(() => openProductDetail(parseInt(productId)), 100);
+  }
+});
+
+// Sync UI with browser back/forward buttons
+window.addEventListener('popstate', (event) => {
+  const urlParams = new URLSearchParams(window.location.search);
+  const productId = urlParams.get('id');
+  if (!productId) {
+    closeModal(true);
+  } else {
+    openProductDetail(parseInt(productId), true);
+  }
 });
 
 function populateBrandsDropdown() {
@@ -155,7 +173,7 @@ function renderProducts() {
   document.getElementById('noResults').style.display = filtered.length === 0 ? 'block' : 'none';
 }
 
-function openProductDetail(id) {
+function openProductDetail(id, isPopState = false) {
   const p = getProducts().find(item => item.id === id);
   if (!p) return;
 
@@ -260,6 +278,13 @@ function openProductDetail(id) {
   
   modal.classList.add('open');
   document.body.style.overflow = 'hidden';
+
+  // Update URL for independent link sharing (if not triggered by back/forward button)
+  if (!isPopState) {
+    const newUrl = new URL(window.location.href);
+    newUrl.searchParams.set('id', id);
+    window.history.pushState({ id }, "", newUrl);
+  }
 }
 
 function toggleAgentList() {
@@ -308,9 +333,16 @@ function switchMainImg(thumb, src) {
 }
 
 function closeModal(e) {
-  if (!e || e.target === modal || e.target.classList.contains('modal-close-btn')) {
+  if (e === true || !e || e.target === modal || e.target.classList.contains('modal-close-btn')) {
     modal.classList.remove('open');
     document.body.style.overflow = '';
+    
+    // Clear URL parameter when modal closes (only if manually closed)
+    if (e !== true) {
+      const newUrl = new URL(window.location.href);
+      newUrl.searchParams.delete('id');
+      window.history.pushState({}, "", newUrl);
+    }
   }
 }
 
