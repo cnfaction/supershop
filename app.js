@@ -22,11 +22,11 @@ document.addEventListener('DOMContentLoaded', () => {
   renderProducts();
   setupEventListeners();
   
-  // Check for product ID in URL on load for direct link sharing
+  // If a product ID is passed to index.html, redirect to product.html
   const urlParams = new URLSearchParams(window.location.search);
   const productId = urlParams.get('id');
   if (productId) {
-    setTimeout(() => openProductDetail(parseInt(productId)), 100);
+    window.location.href = `product.html?id=${productId}`;
   }
 });
 
@@ -34,10 +34,8 @@ document.addEventListener('DOMContentLoaded', () => {
 window.addEventListener('popstate', (event) => {
   const urlParams = new URLSearchParams(window.location.search);
   const productId = urlParams.get('id');
-  if (!productId) {
-    closeModal(true);
-  } else {
-    openProductDetail(parseInt(productId), true);
+  if (productId) {
+    window.location.href = `product.html?id=${productId}`;
   }
 });
 
@@ -154,7 +152,7 @@ function renderProducts() {
     const primaryImage = Array.isArray(p.images) && p.images.length > 0 ? p.images[0] : p.image;
     const imgPath = primaryImage || 'https://via.placeholder.com/600x600?text=No+Image+Available';
     return `
-    <div class="product-card" onclick="openProductDetail(${p.id})">
+    <a href="product.html?id=${p.id}" class="product-card">
       <div class="card-img-wrap">
         <img src="${imgPath}" alt="${p.title}" loading="lazy" onerror="this.src='https://via.placeholder.com/600x600?text=Image+Not+Found'">
       </div>
@@ -166,7 +164,7 @@ function renderProducts() {
         <span class="card-price">$${p.price.toFixed(2)}</span>
         <button class="card-btn">Details</button>
       </div>
-    </div>
+    </a>
   `;
   }).join('');
   
